@@ -112,6 +112,8 @@ TBC
  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
  - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
  - [Bootstrap](https://getbootstrap.com/)
+ - [Font Awesome](https://fontawesome.com/)
+ - 
  
 ## Testing
 
