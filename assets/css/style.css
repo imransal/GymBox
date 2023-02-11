@@ -1,20 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap'); 
-*{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-    color: white;
-}
-
 body {
     background-color: #232323;
     overflow-x: hidden;
-}
-
-.header {
-    height: 100vh;
-    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: white;
 }
 
 /*------------------------------ NavBar Start -------------------------------*/
@@ -40,3 +28,72 @@ body {
     font-size: 14px;
     font-weight: 500;
 }
+
+/*------------------------------ Start Hero Image - Home Page ------------------------------*/
+
+.callout-container {
+    height: 100vh;
+    max-width: 100%;
+
+    background: url(../images/Boxer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
+    
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*------------------------------ End Hero Image - Home Page ------------------------------*/
+/* This style was taken from the "Whiskey Drop" project I completed for Code Institute. All credit to Code Institute.*/
+
+/* Jumbotron Start */
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.jumbotron .lead {
+    margin: 25px 0;
+    color: #a7a7a7;
+
+}
+
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color:#d0d0d0
+
+
+}
+
+/* Jumbotron End */

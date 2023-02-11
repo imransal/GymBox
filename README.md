@@ -125,6 +125,9 @@ TBC
 
 ## Credits
 
+[PixaBay](https://pixabay.com/photos/box-sport-men-training-male-1514845)
+ - I used an image from this website.
+
 ### Code
 
 TBC
