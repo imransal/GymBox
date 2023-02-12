@@ -6,12 +6,17 @@ body {
 }
 
 h3 {
-    font-size: 22px;
     color: dodgerblue;
+    font-size: large;
 }
 
 h2 {
     color: dodgerblue;
+    font-size: xx-large;
+}
+
+p {
+    font-size: medium;
 }
 
 /*------------------------------ NavBar Start -------------------------------*/
@@ -47,6 +52,15 @@ h2 {
 
 .navbar-nav .nav-link.active {
     color: #ffffff;
+}
+
+.navbar-toggler {
+    background-color: dodgerblue;
+    border-color: grey;
+}
+
+.navbar-toggler-icon {
+    background-color: dodgerblue;
 }
 
 /*------------------------------ Jumbotron Start ------------------------------*/
@@ -177,11 +191,32 @@ h2 {
 }
 
 i {
-    color:white
+    color:dodgerblue
 }
 
 .feature .h3 {
     color: dodgerblue;
 }
 
+
 /*------------------------------ Features End ------------------------------*/
+
+
+/*------------------------------ Maps Start ------------------------------*/
+
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+    /*------------------------------ Maps End ------------------------------*/
