@@ -113,7 +113,6 @@ TBC
  - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
  - [Bootstrap](https://getbootstrap.com/)
  - [Font Awesome](https://fontawesome.com/)
- - [MDBootstrap](https://mdbootstrap.com/)
  
 ## Testing
 
@@ -126,8 +125,11 @@ TBC
 ## Credits
 
 [PixaBay](https://pixabay.com/photos/box-sport-men-training-male-1514845)
- - I used an image from this website.
-
+- I used an image from this website.
+ [MDBootstrap](https://mdbootstrap.com/)  
+- I used for Google Maps.
+ [OpacityCode](opacitycode.blogspot.com)
+ - I referred to them for help on my footer.
 ### Code
 
 TBC

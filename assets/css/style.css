@@ -18,7 +18,7 @@ body {
 }
 
 .logo{
-    font-weight: 600px;
+    font-weight: bold;
     color: dodgerblue !important;
     
 
@@ -28,6 +28,10 @@ body {
     margin: 0px 10px;
     
 
+}
+
+.nav-item a:hover {
+    color: dodgerblue;
 }
 
 .nav-item .nav-link {
@@ -95,7 +99,7 @@ body {
     max-width: 100%;
 
     background: url(../images/Boxer.jpg);
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
@@ -212,6 +216,16 @@ i {
         padding-top: 50px;
         padding-bottom: 25px;
     }
+    
+    .small-bar {
+        width: 15%;
+        background-color: #ffffff;
+        border-radius: 7%;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
 
 /*------------------------------ Page Content End ------------------------------*/
 
@@ -224,30 +238,113 @@ i {
 
 .blockquote {
     padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 /*------------------------------ Quote End ------------------------------*/
 
 /*------------------------------ Footer Start ------------------------------*/
 
-.footer-basic {
-    width: 100%;
-	padding: 30px 0 5px 0;
-	background-color: #000000;
-	font-family: 'Poppins', sans-serif;
-	font-size: 1rem;
-	color: #f8f8f8;
-	line-height: 15px;
+footer {
+    position: absolute;
+    bottom: 1;
+    left: 0;
+    right: 0;
+    background-color: #111;
+    height: auto;
+    width: 100vw;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 40px;
+    color: #ffffff;
+}
 
+.footer-content {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.socials {
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
+.socials li {
+    margin: 0 10px;
+}
+
+.socials a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+.socials a i {
+    font-size: 1.1rem;
+    transition: color .4 ease;
+    color: white;
+}
+
+.socials a:hover i {
+    color: dodgerblue;
+}
+
+.footer-bottom {
+    background: #000;
+    width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+.nav-footer .nav-link {
+    list-style: none;
+    display: inline-flex;
+    margin-bottom: 10px;
+    color: #232323;
+}
+
+.nav-footer li {
+    margin: 0 10px;
+}
+
+.nav-footer a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    
+
+}
+
+.nav-footer a:hover {
+    color: dodgerblue;
 }
 
 @media only screen and (min-width: 768px) {
-    .footer-basic {
+    .nav-footer a {
     margin-bottom: 10px;
     color: #ffffff;
     font-weight: bold;
-    font-size: 0.1rem;
+    font-size: 1rem;
     letter-spacing: .1rem;
     text-transform: uppercase;
+    display: inline-flex;
     }
 }
+
+@media only screen and (max-width: 768px) {
+    .nav-footer a {
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-size: 1rem;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+    display: inline-flex;
+    font-weight: bold;
+    }
+}
+
+/*------------------------------ Footer End ------------------------------*/
