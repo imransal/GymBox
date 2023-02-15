@@ -97,7 +97,7 @@ Here is a link to the Wireframes I originally designed. The design has developed
 
 - [Homepage](https://imgbb.com/tX5C0t6)
 - [Facilities](https://imgbb.com/FVCMPG1)
-- [Gym Schedule] ()
+- [Gym Schedule]()
 - [Contact](https://imgbb.com/GpKdCBq)
 
 TBC
@@ -133,8 +133,14 @@ TBC
     - Development environment used to develop the GymBox Project.
  - [Photoshop](https://www.adobe.com/uk/products/photoshop.html)
    - Used to create GymBox timetable.
+ - [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word)
+   - Used to create user story testing documentation.
  - []()
 ## Testing
+
+In this section I will test the user stories from the User Experience Design section in this README.md.
+
+[User Story Testing]()
 
 ### Bugs and Fixes
 
@@ -158,7 +164,7 @@ TBC
 - [MDBootstrap](https://mdbootstrap.com/)  
     - I used for Google Maps.
 
-- [OpacityCode](opacitycode.blogspot.com)
+- [OpacityCode](https://opacitycode.blogspot.com)
     - I referred to them for help on my footer.
 
 ### Code
@@ -167,7 +173,7 @@ TBC
    - Used as the framework throughout the GymBox project.
  - [Matt Rudge, Code Institute](https://codeinstitute.net/)
    - Opaque Overlay on the home page's hero image of website.
- - [OpacityCode](opacitycode.blogspot.com)
+ - [OpacityCode](https://opacitycode.blogspot.com)
    - Used footer for the GymBox project.
  - 
 
