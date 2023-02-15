@@ -97,7 +97,7 @@ Here is a link to the Wireframes I originally designed. The design has developed
 
 - [Homepage](https://imgbb.com/tX5C0t6)
 - [Facilities](https://imgbb.com/FVCMPG1)
-- [Gym Schedule]()
+- [Gym Schedule](Add Live Link)
 - [Contact](https://imgbb.com/GpKdCBq)
 
 TBC
@@ -135,7 +135,9 @@ TBC
    - Used to create GymBox timetable.
  - [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word)
    - Used to create user story testing documentation.
- - []()
+ - [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+    - Used for testing changes throughout the project, finding bugs and testing responsiveness for different size devices.
+
 ## Testing
 
 In this section I will test the user stories from the User Experience Design section in this README.md.
@@ -156,6 +158,17 @@ In this section I will test the user stories from the User Experience Design sec
    - Added @media only screen and (max-width: 768px) to style.css to stipulate header should be 2rem and subheader should be 1rem to keep header on one line.
  - Page content headers too big on smaller devices.
   - @media only screen and (max-width: 768px) just like the jumbotron headings and made the page content headers to a size that looks better on smaller devices.
+
+## Validation
+
+I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my project and to ensure there were no errors in the code.
+
+ - [W3C Markup Validator](https://validator.w3.org/)
+    - [Home Page]()
+    - [Facilities]()
+    - [Contact]()
+ - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+    - [W3C CSS Validator Results]() 
 
 ## Deployment
 
