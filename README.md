@@ -150,7 +150,10 @@ In this section I will test the user stories from the User Experience Design sec
  - Hero image only showing boxers arm on mobile device.
    - Re positioned image to right hand side so the image is now in a position that I like on mobile devices.
 
- - 
+ - Space was too big between maps and quotation from Muhammed Ali.
+   - Realised there was another <div> between maps and quotation, so deleted accordingly.
+ - Jumbotron header too big on mobile and tablet devices.
+   - Added @media only screen and (max-width: 768px) to style.css to stipulate header should be 2rem and subheader should be 1rem to keep header on one line.
 
 ## Deployment
 

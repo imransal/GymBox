@@ -82,6 +82,24 @@ body {
 
 }
 
+@media only screen and (max-width: 768px) {
+    .jumbotron-header {
+        color: dodgerblue;
+        font-weight: bold;
+        margin-bottom: 30px;
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .jumbotron .lead {
+        color: #ffffff;
+        margin: 25px 0;
+        font-size: 1rem;
+    }
+}
+
+
 /*------------------------------ Jumbotron End ------------------------------*/
 
 /*------------------------------ Start Hero Image - Home Page ------------------------------*/
