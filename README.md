@@ -145,7 +145,7 @@ In this section I will test the user stories from the User Experience Design sec
 ### Bugs and Fixes
 
  - Hr dividers spanning accross whole section, I want them to be short and thick. CSS not updating style.
-   - TBF
+   - Added margin: 0 auto; to hr and fixed my problem. Credit to [Stackoverflow](https://stackoverflow.com/)
 
  - Hero image only showing boxers arm on mobile device.
    - Re positioned image to right hand side so the image is now in a position that I like on mobile devices.
@@ -169,6 +169,8 @@ TBC
 
 - [OpacityCode](https://opacitycode.blogspot.com)
     - I referred to them for help on my footer.
+- [Stackoverflow](https://stackoverflow.com/)
+  - I referred to Stackoverflow to fix my hr dividers.
 
 ### Code
 

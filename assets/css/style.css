@@ -199,17 +199,25 @@ body {
 
 /*------------------------------ Page Content Start ------------------------------*/
 
-    .about-us {
+.about-us {
         font-size: 3rem;
         padding-bottom: 50px;
     }
 
-    .find-us {
+.find-us {
         font-size: 3rem;
         padding-top: 50px;
         padding-bottom: 25px;
     }
-    
+
+.short-div-bar {
+    margin: 0 auto;
+    top: 20px;
+    border: none;
+    height: 8px;
+    background: rgb(0, 0, 0);
+    width: 20%;
+}
 
 /*------------------------------ Page Content End ------------------------------*/
 
