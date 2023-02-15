@@ -124,13 +124,16 @@ TBC
  - [Balsamiq](https://balsamiq.com/)
     - Used to build the wireframes for the GymBox Project.
  - [Hover.css](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
-    - Technology used so when a user hovers over the menu nav items, they highlight the chosen 'dodgerblue' color.
+   - Technology used so when a user hovers over the menu nav items, they highlight the chosen 'dodgerblue' color.
  - [GitHub](https://github.com/)
     - Used to save the GymBox Project to and store all the code.
  - [Git](https://git-scm.com/)
     - Used to commit and push all my code to GitHub by using the terminal in Gitpod.
  - [Gitpod](https://www.gitpod.io/)
     - Development environment used to develop the GymBox Project.
+ - [Photoshop](https://www.adobe.com/uk/products/photoshop.html)
+   - Used to create GymBox timetable.
+ - []()
 ## Testing
 
 ### Bugs and Fixes
@@ -160,7 +163,13 @@ TBC
 
 ### Code
 
-TBC
+ - [Bootstrap](https://getbootstrap.com/)
+   - Used as the framework throughout the GymBox project.
+ - [Matt Rudge, Code Institute](https://codeinstitute.net/)
+   - Opaque Overlay on the home page's hero image of website.
+ - [OpacityCode](opacitycode.blogspot.com)
+   - Used footer for the GymBox project.
+ - 
 
 ### Content 
 
