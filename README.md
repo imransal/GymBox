@@ -154,6 +154,8 @@ In this section I will test the user stories from the User Experience Design sec
    - Realised there was another <div> between maps and quotation, so deleted accordingly.
  - Jumbotron header too big on mobile and tablet devices.
    - Added @media only screen and (max-width: 768px) to style.css to stipulate header should be 2rem and subheader should be 1rem to keep header on one line.
+ - Page content headers too big on smaller devices.
+  - @media only screen and (max-width: 768px) just like the jumbotron headings and made the page content headers to a size that looks better on smaller devices.
 
 ## Deployment
 
