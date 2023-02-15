@@ -98,7 +98,7 @@ body {
     height: 100vh;
     max-width: 100%;
 
-    background: url(../images/Boxer.jpg);
+    background: url(../images/boxer.jpg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -217,15 +217,6 @@ i {
         padding-bottom: 25px;
     }
     
-    .small-bar {
-        width: 15%;
-        background-color: #ffffff;
-        border-radius: 7%;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-
-    }
 
 /*------------------------------ Page Content End ------------------------------*/
 

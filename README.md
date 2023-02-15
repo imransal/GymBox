@@ -93,11 +93,11 @@ I will be developing a 3 page website that offers a downloadable Gym schedule in
 
 ## Skeleton Plane
 
-Here is a link to the Wireframes I originally designed.
+Here is a link to the Wireframes I originally designed. The design has developed and changed since the Wireframes were created. I decided to change the tabs section at the bottom of the homepage to include a Google Map instead.
 
 - [Homepage](https://imgbb.com/tX5C0t6)
 - [Facilities](https://imgbb.com/FVCMPG1)
-- [Gym Schedule] (PDF Download)
+- [Gym Schedule] ()
 - [Contact](https://imgbb.com/GpKdCBq)
 
 TBC
@@ -110,13 +110,38 @@ TBC
 ## Technologies Used
 
  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - Used to build and structure all the content for the GymBox Project.
  - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - Used for styling the content for the GymBox Project.
  - [Bootstrap](https://getbootstrap.com/)
+    - Main framework for the GymBox Project.
  - [Font Awesome](https://fontawesome.com/)
- 
+    - Used for Features Icons and Social Media icons.
+ - [JavaScript](https://www.javascript.com/) & [jQuery](https://jquery.com/)
+    - Used for bootstrap navbar to make responsive.
+ - [Google Fonts](https://fonts.google.com/)
+   - Used to import fonts from Google for the GymBox Project. I chose the Poppins font for my website.
+ - [Balsamiq](https://balsamiq.com/)
+    - Used to build the wireframes for the GymBox Project.
+ - [Hover.css](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+    - Technology used so when a user hovers over the menu nav items, they highlight the chosen 'dodgerblue' color.
+ - [GitHub](https://github.com/)
+    - Used to save the GymBox Project to and store all the code.
+ - [Git](https://git-scm.com/)
+    - Used to commit and push all my code to GitHub by using the terminal in Gitpod.
+ - [Gitpod](https://www.gitpod.io/)
+    - Development environment used to develop the GymBox Project.
 ## Testing
 
-TBC
+### Bugs and Fixes
+
+ - Hr dividers spanning accross whole section, I want them to be short and thick. CSS not updating style.
+   - TBF
+
+ - Hero image only showing boxers arm on mobile device.
+   - Re positioned image to right hand side so the image is now in a position that I like on mobile devices.
+
+ - 
 
 ## Deployment
 
@@ -124,12 +149,15 @@ TBC
 
 ## Credits
 
-[PixaBay](https://pixabay.com/photos/box-sport-men-training-male-1514845)
-- I used an image from this website.
- [MDBootstrap](https://mdbootstrap.com/)  
-- I used for Google Maps.
- [OpacityCode](opacitycode.blogspot.com)
- - I referred to them for help on my footer.
+- [PixaBay](https://pixabay.com/photos/box-sport-men-training-male-1514845)
+    - I used an image from this website.
+
+- [MDBootstrap](https://mdbootstrap.com/)  
+    - I used for Google Maps.
+
+- [OpacityCode](opacitycode.blogspot.com)
+    - I referred to them for help on my footer.
+
 ### Code
 
 TBC
