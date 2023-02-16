@@ -159,7 +159,7 @@ In this section I will test the user stories from the User Experience Design sec
  - Page content headers too big on smaller devices.
   - @media only screen and (max-width: 768px) just like the jumbotron headings and made the page content headers to a size that looks better on smaller devices.
  - Images on facilities page scaling incorrectly on smaller devices.
-    - Credit to stackoverflow, I used col-md-4 and col-md-8 for text. Responds well to smaller devices now.
+    - Credit to stackoverflow, I reviewed my resume project for the grid alignment on the features section. I used col-12 col-md-6 col-lg-4 and the website now responds well on smaller devices now.
 
 ## Validation
 

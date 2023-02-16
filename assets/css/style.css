@@ -273,6 +273,12 @@ body {
     display: inline-block;
 }
 
+@media only screen and (max-width: 768px) {
+    .boxing-equipment {
+        justify-content: center;
+    }
+}
+
 /*------------------------------ Page Content End ------------------------------*/
 
 /*------------------------------ Quote Start ------------------------------*/
