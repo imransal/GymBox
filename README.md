@@ -158,6 +158,8 @@ In this section I will test the user stories from the User Experience Design sec
    - Added @media only screen and (max-width: 768px) to style.css to stipulate header should be 2rem and subheader should be 1rem to keep header on one line.
  - Page content headers too big on smaller devices.
   - @media only screen and (max-width: 768px) just like the jumbotron headings and made the page content headers to a size that looks better on smaller devices.
+ - Images on facilities page scaling incorrectly on smaller devices.
+    - Credit to stackoverflow, I used col-md-4 and col-md-8 for text. Responds well to smaller devices now.
 
 ## Validation
 
@@ -178,14 +180,14 @@ TBC
 
 - [PixaBay](https://pixabay.com/photos/box-sport-men-training-male-1514845)
     - Hero images taken from Pixabay stock image library.
-    
+
 - [MDBootstrap](https://mdbootstrap.com/)  
     - I used for Google Maps.
 
 - [OpacityCode](https://opacitycode.blogspot.com)
     - I referred to them for help on my footer.
 - [Stackoverflow](https://stackoverflow.com/)
-  - I referred to Stackoverflow to fix my hr dividers.
+  - I referred to Stackoverflow to fix my hr dividers and help on responsiveness of images and text on the facilities page.
 
 ### Code
 

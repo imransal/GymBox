@@ -9,12 +9,6 @@ body {
     color: white;
 }
 
-@media only screen and (max-width: 768px) {
-    body p {
-        font-size: 1.1rem;
-    }
-}
-
 /*------------------------------ NavBar Start -------------------------------*/
 
 .navbar {
@@ -93,7 +87,7 @@ body {
         color: dodgerblue;
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 }
 
@@ -191,12 +185,6 @@ body {
     padding-bottom: 75px;
 }
 
-.facilities-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
-    display: inline-flex;
-}
-
 /*------------------------------ Containers End ------------------------------*/
 
 /*------------------------------ Features Start ------------------------------*/
@@ -274,19 +262,16 @@ body {
     }
 }
 
-.facilities-content {
-    padding-left: 50px;
-    padding-right: 50px;
+.boxing-equipment-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
-.boxing-bag {
-    width: auto;
-    height: 400px;
-    background-repeat: no-repeat;
-    background-size: cover;
-
+.boxing-equipment {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: inline-block;
 }
-
 
 /*------------------------------ Page Content End ------------------------------*/
 
