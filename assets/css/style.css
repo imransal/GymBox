@@ -9,6 +9,12 @@ body {
     color: white;
 }
 
+@media only screen and (max-width: 768px) {
+    body p {
+        font-size: 1.1rem;
+    }
+}
+
 /*------------------------------ NavBar Start -------------------------------*/
 
 .navbar {
@@ -87,7 +93,7 @@ body {
         color: dodgerblue;
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 }
 
@@ -102,7 +108,7 @@ body {
 
 /*------------------------------ Jumbotron End ------------------------------*/
 
-/*------------------------------ Start Hero Image - Home Page ------------------------------*/
+/*------------------------------ Hero Image Start - Home Page ------------------------------*/
 
 .callout-container {
     height: 100vh;
@@ -143,14 +149,52 @@ body {
         bottom: auto;
         background-color: rgba(0,0,0,0.5); 
 }
-/*------------------------------ End Hero Image - Home Page ------------------------------*/
+/*------------------------------ Hero Image End - Home Page ------------------------------*/
 /* The style for the hero image and jumbotron was taken from the "Whiskey Drop" project I completed for Code Institute. All credit to Matt Rudge, Code Institute.*/
+
+/*------------------------------ Hero Image Start - Facilities Page ------------------------------*/
+
+.facilities-hero {
+    height: 100vh;
+    max-width: 100%;
+
+    background: url(../images/boxer_training_in_gym.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+    
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
+    
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+
+    position: relative;
+}
+
+/*------------------------------ Hero Image End - Facilities Page ------------------------------*/
 
 /*------------------------------ Containers Start ------------------------------*/
 
 .content-container {
     padding-top: 75px;
     padding-bottom: 75px;
+}
+
+.facilities-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    display: inline-flex;
 }
 
 /*------------------------------ Containers End ------------------------------*/
@@ -228,6 +272,19 @@ body {
     text-transform: uppercase;
     display: inline-flex;
     }
+}
+
+.facilities-content {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.boxing-bag {
+    width: auto;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 

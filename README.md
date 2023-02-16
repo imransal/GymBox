@@ -177,8 +177,8 @@ TBC
 ## Credits
 
 - [PixaBay](https://pixabay.com/photos/box-sport-men-training-male-1514845)
-    - I used an image from this website.
-
+    - Hero images taken from Pixabay stock image library.
+    
 - [MDBootstrap](https://mdbootstrap.com/)  
     - I used for Google Maps.
 
