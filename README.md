@@ -164,7 +164,7 @@ In this section I will test the user stories from the User Experience Design sec
 I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my project and to ensure there were no errors in the code.
 
  - [W3C Markup Validator](https://validator.w3.org/)
-    - [Home Page]()
+    - [Home Page](./docs/W3C-Markup-Validator-Homepage.jpg)
     - [Facilities]()
     - [Contact]()
  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
