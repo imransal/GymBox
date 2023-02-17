@@ -306,7 +306,7 @@ body {
 
 .gloves-img {
 
-    height: 50vh;
+    height: 60vh;
     max-width: 100%;
     background: url(../images/boxing_gloves.jpg);
     background-position: center;
@@ -328,7 +328,7 @@ body {
 }
 
 .ring-img {
-    height: 50vh;
+    height: 60vh;
     max-width: 100%;
     background: url(../images/boxing_ring.jpg);
     background-position: center;
@@ -350,7 +350,7 @@ body {
 }
 
 .fitness-img {
-    height: 50vh;
+    height: 60vh;
     max-width: 100%;
     background: url(../images/weights.jpg);
     background-position: center;

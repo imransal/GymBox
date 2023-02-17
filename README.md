@@ -161,7 +161,7 @@ In this section I will test the user stories from the User Experience Design sec
  - Images on facilities page scaling incorrectly on smaller devices.
     - Credit to stackoverflow, I reviewed my resume project for the grid alignment on the features section. I used col-12 col-md-6 col-lg-4 and the website now responds well on smaller devices now.
  - Headings on facilities page on mobile devices protruding above img container.
-      - TBF
+      - Increased image view height to 60 in CSS. Looks good on all screens now
 
 ## Validation
 
