@@ -160,6 +160,8 @@ In this section I will test the user stories from the User Experience Design sec
     - Added @media only screen and (max-width: 768px) just like the jumbotron headings and made the page content headers to a size that looks better on smaller devices.
  - Images on facilities page scaling incorrectly on smaller devices.
     - Credit to stackoverflow, I reviewed my resume project for the grid alignment on the features section. I used col-12 col-md-6 col-lg-4 and the website now responds well on smaller devices now.
+ - Headings on facilities page on mobile devices protruding above img container.
+      - TBF
 
 ## Validation
 
