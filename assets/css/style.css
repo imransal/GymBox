@@ -230,7 +230,7 @@ body {
 
 /*------------------------------ Maps End ------------------------------*/
 
-/*------------------------------ Page Content Start ------------------------------*/
+/*------------------------------ Home Page Content Start ------------------------------*/
 
 .about-us {
         font-size: 3rem;
@@ -262,6 +262,10 @@ body {
     display: inline-flex;
     }
 }
+
+/*------------------------------ Home Page Content End ------------------------------*/
+
+/*------------------------------ Facilities Page Content Start ------------------------------*/
 
 .boxing-equipment-container {
     padding-top: 75px;
@@ -299,7 +303,90 @@ body {
         text-align: center;
     }
 }
-/*------------------------------ Page Content End ------------------------------*/
+
+.gloves-img {
+
+    height: 50vh;
+    max-width: 100%;
+    background: url(../images/boxing_gloves.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;  
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    position: relative;
+}
+
+.ring-img {
+    height: 50vh;
+    max-width: 100%;
+    background: url(../images/boxing_ring.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;  
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    position: relative;
+}
+
+.fitness-img {
+    height: 50vh;
+    max-width: 100%;
+    background: url(../images/weights.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;  
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    position: relative;
+}
+
+
+@media only screen and (max-width: 768px) {
+    
+    .boxing-equipment-container .lead  {
+        font-size: .8rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    
+    .boxing-equipment-list, .boxing-ring-list, .fitness-list  {
+        font-size: .8rem;
+    }
+}
+
+/*------------------------------ Facilities Page Content End ------------------------------*/
 
 /*------------------------------ Quote Start ------------------------------*/
 

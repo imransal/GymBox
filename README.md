@@ -149,7 +149,7 @@ In this section I will test the user stories from the User Experience Design sec
  - Hr dividers spanning accross whole section, I want them to be short and thick. CSS not updating style.
    - Added margin: 0 auto; to hr and fixed my problem. Credit to [Stackoverflow](https://stackoverflow.com/)
 
- - Hero image only showing boxers arm on mobile device.
+ - Hero image on Home Page only showing boxer's arm on mobile device.
    - Re positioned image to right hand side so the image is now in a position that I like on mobile devices.
 
  - Space was too big between maps and quotation from Muhammed Ali.
