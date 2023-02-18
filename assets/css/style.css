@@ -428,6 +428,27 @@ body {
     position: relative;
 }
 
+.contact-container .lead {
+    text-align: center;
+}
+
+.contact-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.btn-success {
+    background-color: dodgerblue;
+
+}
+
+
+.form-center {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
 /*------------------------------ Contact Page End ------------------------------*/
 
 /*------------------------------ Quote Start ------------------------------*/
