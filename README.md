@@ -100,20 +100,34 @@ Here is a link to the Wireframes I originally designed. The design has developed
 - [Gym Schedule](Add Live Link)
 - [Contact](https://imgbb.com/GpKdCBq)
 
+### Homepage Differences 
+
+ - Navbar is centerised instea of to the left as on the wireframe.
  - I decided to keep the google maps on my Homepage but I also added in a youtube video that does not play automatically.
  - I did not include a sign up form in the hero image of the Homepage as I felt like this would clutter the home page
- - 
+ - I decided to replace the card section at the bottom of the wireframe with a google maps location section instead.
 
+ ### Facilities Differences
 
+ - I decided to change the layout of the facilities page. I found layering the text on top of the images gives a better aesthetic appeal to this page.
+ - I decided to add in an extra section at the bottom of the facilities page to inform users about the experienced trainers that are available at GymBox. I included an inline quotation box that responds to smaller screen devices as well.
 
+### Contact Differences
 
-
+- I decided to condense this form into less input boxes. I combined first name and last name and removed the option for a contact number.
 
 
 ## Surface Plane 
 
+### Features
 
-TBC
+- NavBar - I have used a responsive NavBar that toggles into a burger bar menu that activates at a width of 991px. This is suitable for small and medium devices. I have styled the navbar to show the active page in a solid white, whilst the inactive pages are a off white / grey color. I have used a hover effect so when the user hovers over a NavBar item it will highlight as the website themes 'dodgerblue' color. The Logo on the left hand side of the NavBar provides a link back to the homepage.
+- Hero Images - I have used hero images for the start of my pages. I have included a jumbotron with an opaque overlay so that the jumbotron text is clear. All of the hero images displayed on the site follow the same boxing theme and the images I have chosen feels like the same photographer took them all.
+- Dark background - I decided to use a dark background to help users to strain their eyes less when viewing the webpage. Using a dark themed website also helps content stand out and convey more of a powerful message to the site user.
+- Dark colors and theme - I decided to go with a grey, white and dodgerblue color scheme. The grey colors suit well with the combat sports industry. Grey provides a professional and modern feel whilst the dodgerblue color I chose helps to indluence a calming feel whilst also being the color known to be honest, truthful and sincere (Credits to [Color-Meanings](https://www.color-meanings.com/)).
+- Light colored fonts - I chose the Poppins font from [Google Fonts](https://fonts.google.com/) due to the professional sports look. I decided to go with white and dodgerblue colors for my hero image headers and content. This provides a nice contrast to the dark themed backgrounds I have chosen.
+- Quotations - I have used real quotations throughout the site. I have used a quotation on the home page that is fitting from Muhammed Ali where he mentions the world 'Impossible' does not actually exist. This is a relative quote as the site user is thinking about joining a boxing gym. I used another quotation from Muhammed Ali on my Facilities page which he mentions winning a battle is long before the event, but is won in the gym and in training. I have placed this quotation next to some content that is showcasing the experienced boxing trainers we have at GymBox.
+- Footer - I used a footer from Opacity Code. I took inspiration from this footer as it met the requirements I designed in my wireframes. I included another navigation menu in the same style as my NavBar, including the colors and hover. I also included my social media icons with links to individual profiles that open in a new tab.
 
 ## Technologies Used
 
@@ -212,6 +226,8 @@ TBC
     - Images taken from Pexels stock image library.
 - [Youtube](https://www.youtube.com)
     - Credit for Video of Anthony Joshua's Gym in London.
+- [Color-Meanings](https://www.color-meanings.com/)
+  - I used Color-Meanings to help me decide on the brand theme colors.
 
 ### Code
 
