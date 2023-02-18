@@ -55,7 +55,7 @@ Developing User Stories allows me to gain a deeper understanding of design and f
 
 #### Types of expected visitor goals
 
-- As a busy professional: I want to be able to easily find the location, contact information, and be able to view the classes on the gym's website, so that I can plan my workout schedule in advance.
+- As a busy professional: I want to be able to easily find the location, and be able to view the classes on the gym's website, so that I can plan my workout schedule in advance.
 
 - As an amateur boxer: I want to be able to find detailed information about the gym's equipment and classes so that I can create a training schedule for myself.
 
@@ -202,38 +202,62 @@ In this section I will test the user stories from the User Experience Design sec
 
 * There is another navigation bar on the footer of the website in case the user wants to change page without having to access the NavBar again.
 
-![Facilities Page Screenshot](docs/User%20Story%20Images/Footer.jpg)
+![Footer Screenshot](docs/User%20Story%20Images/Footer.jpg)
 
 3. **As a first time visitor, I expect the information I read to be reinforced or supported through elements such as quotes, stories, or images.**
 
 * Information has been collated into sections, in this particular section the content on the website is supported by a quotation by the great Muhammed Ali highlighted in the red rectangle.
 
-![Facilities Page Screenshot](docs/User%20Story%20Images/Experienced-Trainers-Quotation-.jpg)
+![Experienced Trainer and Quotation Screenshot](docs/User%20Story%20Images/Experienced-Trainers-Quotation-.jpg)
 
 * I have added another quote on the home page which is fitting for a a first time user landing on the home page of a boxing gym website highlighted in the red rectangle.
 
-![Facilities Page Screenshot](docs/User%20Story%20Images/Quote-Of-The-Day.jpg)
+![Quote Of The Day Screenshot](docs/User%20Story%20Images/Quote-Of-The-Day.jpg)
 
 4. **As a first time visitor, I want to have a positive visual experience, with a clean and organized layout and attractive design.**
 
 * There is a consistent style throughout all the pages of the website. Sections are clearly seperated and displays well on smaller devices.
 
-![Facilities Page Screenshot](docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
+![Members and Benefits Screenshot](docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
 ![Facilities Page Screenshot](docs/User%20Story%20Images/Facilities-Page.jpg)
-![Facilities Page Screenshot](docs/User%20Story%20Images/Contact-Page.jpg)
+![Contact Page Screenshot](docs/User%20Story%20Images/Contact-Page.jpg)
 
- * Mobile view
+* Mobile view
 
-![Facilities Page Screenshot](docs/User%20Story%20Images/mobile-membership-benefits.jpg)
-![Facilities Page Screenshot](docs/User%20Story%20Images/mobile-facilities-page.jpg)
-![Facilities Page Screenshot](docs/User%20Story%20Images/mobile-contact-page.jpg)
+![Members and Benefits Mobile Screenshot](docs/User%20Story%20Images/mobile-membership-benefits.jpg)
+![Facilities Page Mobile Screenshot](docs/User%20Story%20Images/mobile-facilities-page.jpg)
+![Contact Page Mobile Screenshot](docs/User%20Story%20Images/mobile-contact-page.jpg)
 
 5. **As a first time visitor, I want to be able to easily access additional resources or support, such as a Gym Schedule or contact information.**
-   * Upon clicking on the Gym Schedule link in the NavBar, a new tab will open and display a PDF of the schedule that users can download.
+* Upon clicking on the Gym Schedule link in the NavBar, a new tab will open and display a PDF of the schedule that users can download.
 
-![Facilities Page Screenshot](docs/User%20Story%20Images/Gym-Schedule.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Gym-Schedule.jpg)
 
-### 
+### Returning Visitor Goals
+
+1. **As a returning visitor, I seek a convenient means of communication with the creator / owner, such as through social links or a contact page the ability to easily access the schedule of the business in a seamless way.**
+
+* The returning visitor can easily click on the gym schedule in the NavBar or Footer and a new tab will open with a downloadable copy of the Gym Schedule in PDF format.
+
+![Footer Screenshot](docs/User%20Story%20Images/Footer.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Gym-Schedule.jpg)
+
+### Types Of Expected Visitor Goals
+
+1. **As a busy professional: I want to be able to easily find the location, and be able to view the classes on the gym's website, so that I can plan my workout schedule in advance.**
+
+* A busy professional can access all the information they need on the Homepage as they scroll down. A downloadable copy of the Gym Schedule can be obtained by clicking the link on the NavBar.
+
+![Members and Benefits Screenshot](docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
+![About Gymbox Screenshot](docs/User%20Story%20Images/About-Gymbox.jpg)
+![Map Location Screenshot](docs/User%20Story%20Images/Where-To-Find-Us.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Gym-Schedule.jpg)
+
+2. **As an amateur boxer: I want to be able to find detailed information about the gym's equipment and classes so that I can create a training schedule for myself.**
+
+* An amateur boxer can find information about the gym's equipment on the facilities page and can download a copy of the Gym Schedule by clicking on the Nav link.
+
+
 
 ### Bugs and Fixes
 
