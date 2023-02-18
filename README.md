@@ -95,14 +95,20 @@ I will be developing a 3 page website that offers a downloadable Gym schedule in
 
 Here is a link to the Wireframes I originally designed. The design has developed and changed since the Wireframes were created. I decided to change the tabs section at the bottom of the homepage to include a Google Map instead.
 
-As of February 18th 2023 - I decided to keep the google maps on my Homepage but I also added in a youtube video that does not play automatically.
-
 - [Homepage](https://imgbb.com/tX5C0t6)
 - [Facilities](https://imgbb.com/FVCMPG1)
 - [Gym Schedule](Add Live Link)
 - [Contact](https://imgbb.com/GpKdCBq)
 
-TBC
+ - I decided to keep the google maps on my Homepage but I also added in a youtube video that does not play automatically.
+ - I did not include a sign up form in the hero image of the Homepage as I felt like this would clutter the home page
+ - 
+
+
+
+
+
+
 
 ## Surface Plane 
 
@@ -170,7 +176,10 @@ In this section I will test the user stories from the User Experience Design sec
    - Repoisitioned using background-position - now looks good on smaller devices.
  - Quotation box on facilities page kept stacking on top of content on smaller screen devices instead of underneath.
       - Re arranged content and formatted using col 6.
-## Validation
+ - Headers too big on mobile devices, protruding out of containers.
+     - Fixed by resizing headers using media query.
+  
+  ## W3C Validation
 
 I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my project and to ensure there were no errors in the code.
 
