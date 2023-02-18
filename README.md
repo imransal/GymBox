@@ -368,4 +368,10 @@ Forking a GitHub repository allows you to make a copy of the original repository
 
 ## Thank You
 
-TBC 
+I would like to thank my course mentor Harry Dhillon and my course tutor Nigel Edwards for their support and guidance throughout this project.
+
+I would like to thank anyone who has made it to the bottom of this very long README file. I have learned a lot during the course of this project and I will be learning and impleneting a lot more going forwards on this journey to becoming a full stack developer.
+
+I hope you have a wonderful day or night wherever, whoever you are! 
+
+Happy Coding :-)
