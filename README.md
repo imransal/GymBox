@@ -43,9 +43,7 @@ With the strategy for user experience in place, a crucial step is to shift my fo
  - As a first time visitor, I want to have an intuitive and seamless navigation experience.
  - As a first time visitor, I expect the information I read to be reinforced or supported through elements such as quotes, stories, or images.
  - As a first time visitor, I want to have a positive visual experience, with a clean and organized layout and attractive design.
- - As a first time visitor,, I want to be able to easily access additional resources or support, such as FAQs or contact information.
- - As a first time visitor, I want to have a clear understanding of how to take the next step, whether it be making a purchase, signing up for a service, or obtaining more information.
- - As a first-time visitor, I desire a structured and organized presentation of information, rather than feeling overwhelmed by excessive information.
+ - As a first time visitor, I want to be able to easily access additional resources or support, such as a gym schedule or contact information.
  
 #### Returning Visitor Goals
 
@@ -178,8 +176,6 @@ Here is a link to the Wireframes I originally designed. The design has developed
 
 In this section I will test the user stories from the User Experience Design section in this README.md.
 
-[User Story Testing]()
-
 ### User Story Testing
 
 1. **As a first time visitor, I want to be able to quickly understand the purpose and offerings of the website.**
@@ -209,6 +205,35 @@ In this section I will test the user stories from the User Experience Design sec
 ![Facilities Page Screenshot](docs/User%20Story%20Images/Footer.jpg)
 
 3. **As a first time visitor, I expect the information I read to be reinforced or supported through elements such as quotes, stories, or images.**
+
+* Information has been collated into sections, in this particular section the content on the website is supported by a quotation by the great Muhammed Ali highlighted in the red rectangle.
+
+![Facilities Page Screenshot](docs/User%20Story%20Images/Experienced-Trainers-Quotation-.jpg)
+
+* I have added another quote on the home page which is fitting for a a first time user landing on the home page of a boxing gym website highlighted in the red rectangle.
+
+![Facilities Page Screenshot](docs/User%20Story%20Images/Quote-Of-The-Day.jpg)
+
+4. **As a first time visitor, I want to have a positive visual experience, with a clean and organized layout and attractive design.**
+
+* There is a consistent style throughout all the pages of the website. Sections are clearly seperated and displays well on smaller devices.
+
+![Facilities Page Screenshot](docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
+![Facilities Page Screenshot](docs/User%20Story%20Images/Facilities-Page.jpg)
+![Facilities Page Screenshot](docs/User%20Story%20Images/Contact-Page.jpg)
+
+ * Mobile view
+
+![Facilities Page Screenshot](docs/User%20Story%20Images/mobile-membership-benefits.jpg)
+![Facilities Page Screenshot](docs/User%20Story%20Images/mobile-facilities-page.jpg)
+![Facilities Page Screenshot](docs/User%20Story%20Images/mobile-contact-page.jpg)
+
+5. **As a first time visitor, I want to be able to easily access additional resources or support, such as a Gym Schedule or contact information.**
+   * Upon clicking on the Gym Schedule link in the NavBar, a new tab will open and display a PDF of the schedule that users can download.
+
+![Facilities Page Screenshot](docs/User%20Story%20Images/Gym-Schedule.jpg)
+
+### 
 
 ### Bugs and Fixes
 
