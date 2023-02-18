@@ -112,24 +112,10 @@ body {
     background: url(../images/boxer.jpg);
     background-position: right;
     background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    
-    
-    display: -webkit-box;
-    
-    display: -ms-flexbox;
-    
+    background-size: cover;    
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-
+    align-items: center;
+    justify-content: center;
     position: relative;
 
 }
@@ -157,23 +143,9 @@ body {
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    
-    
-    display: -webkit-box;
-    
-    display: -ms-flexbox;
-    
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-
+    align-items: center;
+    justify-content: center;
     position: relative;
 }
 
@@ -327,18 +299,9 @@ body {
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;  
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    align-items: center;
+    justify-content: center;
     position: relative;
 }
 
@@ -349,18 +312,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;  
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    align-items: center;
+    justify-content: center;
     position: relative;
 }
 
@@ -371,18 +325,9 @@ body {
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;  
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    align-items: center;
+    justify-content: center;
     position: relative;
 }
 
@@ -427,23 +372,9 @@ body {
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    
-    
-    display: -webkit-box;
-    
-    display: -ms-flexbox;
-    
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-
+    align-items: center;
+    justify-content: center;
     position: relative;
 }
 
@@ -488,7 +419,6 @@ body {
 
 footer {
     position: absolute;
-    bottom: 1;
     left: 0;
     right: 0;
     background-color: #111;
@@ -525,7 +455,6 @@ footer {
 
 .socials a i {
     font-size: 1.1rem;
-    transition: color .4 ease;
     color: white;
 }
 
