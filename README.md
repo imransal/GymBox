@@ -304,14 +304,16 @@ In this section I will test the user stories from the User Experience Design sec
 
 I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my project and to ensure there were no errors in the code.
 
- - [W3C Markup Validator](https://validator.w3.org/)
-    - [Home Page](./docs/W3C-Markup-Validator-Homepage.jpg)
+- [W3C Markup Validator](https://validator.w3.org/)
+- [Home Page](./docs/W3C-Markup-Validator-Homepage.jpg)
     - [Facilities Error](../GymBox/docs/W3C-Markup-Validator-Facilities-Page-Error.jpg)
     - [Facilities](./docs/W3C-Markup-Validator-Facilities-Page.jpg)
     - [Contact Error](./docs/W3C-Markup-Validator-Contact-Page-Error.jpg)
     - [Contact](./docs/W3C-Markup-Validator-Contact-Page.jpg)
  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-    - [W3C CSS Validator Results]() 
+    - [W3C CSS Validator Error 1](./docs/W3C-CSS-Validator-Error.jpg)
+    - [W3C CSS Validator Error 2](./docs/W3C-CSS-Validator-Error-2.jpg)
+    - [W3C CSS Validator Results](./docs/W3C-CSS-Validator.jpg) 
 
 ## Deployment
 
@@ -344,10 +346,8 @@ Forking a GitHub repository allows you to make a copy of the original repository
 
 - [PixaBay](https://pixabay.com/)
     - Hero images taken from Pixabay stock image library.
-
 - [MDBootstrap](https://mdbootstrap.com/)  
     - I used for Google Maps.
-
 - [OpacityCode](https://opacitycode.blogspot.com)
     - I referred to them for help on my footer.
 - [Stackoverflow](https://stackoverflow.com/)
@@ -369,7 +369,11 @@ Forking a GitHub repository allows you to make a copy of the original repository
  - [OpacityCode](https://opacitycode.blogspot.com)
    - Used footer for the GymBox project.
  - [Youtube](https://www.youtube.com)
-    - Used embed link for Video of Anthony Joshua's Gym in London.
+    - Used embed link for Video of Anthony Joshua's Gym in London
+- [Stackoverflow](https://stackoverflow.com/)
+  - I referred to Stackoverflow to fix my hr dividers and help on responsiveness of images and text on the facilities page.
+- [MDBootstrap](https://mdbootstrap.com/)  
+    - I used for Google Maps.
 
 
 ## Thank You
