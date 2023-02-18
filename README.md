@@ -164,7 +164,8 @@ In this section I will test the user stories from the User Experience Design sec
       - Increased image view height to 60 in CSS. Looks good on all screens now
  - Images on facilities page not in good position - cannot see whole images.
    - Repoisitioned using background-position - now looks good on smaller devices.
-
+ - Quotation box on facilities page kept stacking on top of content on smaller screen devices instead of underneath.
+      - Re arranged content and formatted using col 6.
 ## Validation
 
 I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my project and to ensure there were no errors in the code.
