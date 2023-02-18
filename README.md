@@ -2,6 +2,8 @@
 
 ![GymBox Homepage Hero Screenshot](/docs/Responsive-Design-Layout.jpg)
 
+[View Live Project Website](https://imransal.github.io/GymBox/)
+
 ## Introduction
 
 Welcome to GymBox, my first milestone project. In October 2022 I decided to challenge myself to complete a Full Stack Development course whilst working full time and fathering 2 young children. 
