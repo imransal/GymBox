@@ -182,7 +182,33 @@ In this section I will test the user stories from the User Experience Design sec
 
 ### User Story Testing
 
+1. **As a first time visitor, I want to be able to quickly understand the purpose and offerings of the website.**
 
+* As soon as you enter the website you are introduced with a a title that says "Welcome To GymBox" and a subtitle that says "The Number 1 Boxing Gym In The UK".
+
+* Users are aware straight away they are one a homepage for a boxing gym website.
+
+![GymBox Homepage Hero Screenshot](../GymBox/docs/User%20Story%20Images/Home-Page-Hero.jpg)
+
+* As you scroll down you can easily see 3 subheadings with more information, headed "Boxing Equipment", "Boxing Classes", and "Safe & Secure". This lets site users know straight away Gymbox has boxing equipment, boxing classes and is a safe & secure site for members to attend.
+
+![Membership Benefits and About Gymbox Screenshot](../GymBox/docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
+
+2. **As a first time visitor, I want to have an intuitive and seamless navigation experience.**
+
+* The NavBar on all pages lets the user know what page they are on with it being highlighted. 
+
+![NavBar Screenshot](../GymBox/docs/User%20Story%20Images/NavBar.jpg)
+
+* There are well headed sections on the website letting users know what information there is and where it is.
+
+![Facilities Page Screenshot](../GymBox/docs/User%20Story%20Images/Facilities-Page-Section.jpg)
+
+* There is another navigation bar on the footer of the website in case the user wants to change page without having to access the NavBar again.
+
+![Facilities Page Screenshot](../GymBox/docs/User%20Story%20Images/Footer.jpg)
+
+3. **As a first time visitor, I expect the information I read to be reinforced or supported through elements such as quotes, stories, or images.**
 
 ### Bugs and Fixes
 
