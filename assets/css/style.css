@@ -569,5 +569,15 @@ footer {
     }
 }
 
+.footer-bottom a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-bottom a:hover {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
 /*------------------------------ Footer End ------------------------------*/
 
