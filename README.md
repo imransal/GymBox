@@ -169,6 +169,8 @@ Here is a link to the Wireframes I originally designed. The design has developed
     - Used to validate CSS code.
  - [Free Formatter](https://www.freeformatter.com/)
     - Used to format all HTML code.
+ - [Clean CSS](https://www.cleancss.com/)
+    - Used to format and clean my CSS code.
 
 ## Testing
 

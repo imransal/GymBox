@@ -1,144 +1,107 @@
 html{
     overflow-x: hidden;
 }
-
 body {
     background-color: #232323;
     overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
     color: white;
 }
-
-
 /*------------------------------ NavBar Start -------------------------------*/
-
 .navbar {
     padding: 15px 18px !important;
     position: relative;
-
 }
-
 .logo{
     font-weight: bold;
     color: dodgerblue !important;
-    
-
 }
-
 .nav-item{
     margin: 0px 10px;
-    
-
 }
-
 .nav-item a:hover {
     color: dodgerblue;
 }
-
 .nav-item .nav-link {
-        margin-bottom: 10px;
-        color: #525252;
-        font-weight: bold;
-        font-size: 1rem;
-        letter-spacing: .05rem;
-        text-transform: uppercase;
-
-    
+    margin-bottom: 10px;
+    color: #525252;
+    font-weight: bold;
+    font-size: 1rem;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
 }
-
 .navbar-nav .nav-link.active {
     color: #ffffff;
 }
-
 .navbar-toggler {
     background-color: dodgerblue;
     border-color: grey;
 }
-
 .navbar-toggler-icon {
     background-color: dodgerblue;
 }
-
 /*------------------------------ NavBar End -------------------------------*/
-
 /*------------------------------ Jumbotron Start ------------------------------*/
-
 .jumbotron {
     background-color: transparent;
     background-size: cover;
     position: relative;
-    
 }
-
 .jumbotron-header {
     color: dodgerblue;
     font-weight: bold;
     margin-bottom: 30px;
     font-size: 4rem;
 }
-
 .jumbotron .lead {
     margin: 25px 0;
     color: #ffffff;
-
 }
-
 @media only screen and (max-width: 768px) {
     .jumbotron-header {
         color: dodgerblue;
         font-weight: bold;
         margin-bottom: 30px;
         font-size: 2rem;
-    }
+   }
 }
-
 @media only screen and (max-width: 768px) {
     .jumbotron .lead {
         color: #ffffff;
         margin: 25px 0;
         font-size: 1rem;
-    }
+   }
 }
-
-
 /*------------------------------ Jumbotron End ------------------------------*/
-
 /*------------------------------ Hero Image Start - Home Page ------------------------------*/
-
 .callout-container {
     height: 100vh;
     max-width: 100%;
-
     background: url(../images/boxer.jpg);
     background-position: right;
     background-repeat: no-repeat;
-    background-size: cover;    
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
-
 }
-
-    .opaque-overlay {
-        position: absolute; 
-        width: 100%; 
-        height: 100%;
-        top: auto;
-        left: 0;
-        right: 0;
-        bottom: auto;
-        background-color: rgba(0,0,0,0.6); 
+.opaque-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    background-color: rgba(0,0,0,0.6);
 }
 /*------------------------------ Hero Image End - Home Page ------------------------------*/
 /* The style for the hero image and jumbotron was taken from the "Whiskey Drop" project I completed for Code Institute. All credit to Matt Rudge, Code Institute.*/
-
 /*------------------------------ Hero Image Start - Facilities Page ------------------------------*/
-
 .facilities-hero {
     height: 100vh;
     max-width: 100%;
-
     background: url(../images/boxer_training_in_gym.jpg);
     background-position: right;
     background-repeat: no-repeat;
@@ -148,32 +111,24 @@ body {
     justify-content: center;
     position: relative;
 }
-
 /*------------------------------ Hero Image End - Facilities Page ------------------------------*/
-
 /*------------------------------ Containers Start ------------------------------*/
-
 .content-container {
     padding-top: 75px;
     padding-bottom: 75px;
 }
-
 /*------------------------------ Containers End ------------------------------*/
-
 /*------------------------------ Features Start ------------------------------*/
-
 .feature {
     text-align: center;
     margin-bottom: 40px;
 }
-
 .feature i {
     margin-bottom: 20px;
     font-size: 45px;
     line-height: 45px;
     color:dodgerblue;
 }
-
 .page-header {
     text-align: center;
     position: relative;
@@ -181,7 +136,6 @@ body {
     font-size: 3rem;
     padding-bottom: 25px;
 }
-
 @media only screen and (max-width: 768px) {
     .page-header {
         text-align: center;
@@ -189,41 +143,30 @@ body {
         padding-top: 15px;
         font-size: 2rem;
         padding-bottom: 25px;
-    }
+   }
 }
-
-
-
-
 /*------------------------------ Features End ------------------------------*/
-
 /*------------------------------ Maps Start ------------------------------*/
-
-
 .map-container{
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
-    }
-    .map-container iframe{
+}
+.map-container iframe{
     left:0;
     top:0;
     height:100%;
     width:100%;
     position:absolute;
-    }
-
+}
 /*------------------------------ Maps End ------------------------------*/
-
 /*------------------------------ Home Page Content Start ------------------------------*/
-
 .find-us {
-        font-size: 3rem;
-        padding-top: 50px;
-        padding-bottom: 25px;
-    }
-
+    font-size: 3rem;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
 .short-div-bar {
     margin: 0 auto;
     top: 20px;
@@ -232,80 +175,65 @@ body {
     background: rgb(0, 0, 0);
     width: 20%;
 }
-
 @media only screen and (max-width: 768px) {
     .about-us, .find-us {
-    margin-bottom: 10px;
-    color: #ffffff;
-    font-size: 2.2rem;
-    letter-spacing: .1rem;
-    text-transform: uppercase;
-    display: inline-flex;
-    }
+        margin-bottom: 10px;
+        color: #ffffff;
+        font-size: 2.2rem;
+        letter-spacing: .1rem;
+        text-transform: uppercase;
+        display: inline-flex;
+   }
 }
-
 @media only screen and (max-width: 768px) {
     .youtube {
         width: 100%;
         height: 50vh;
         margin: 0 auto;
-    }
+   }
 }
-
 .youtube {
     width: 100%;
     height: 50vh;
     margin: 0 auto;
     padding-top: 25px;
 }
-
 .youtube-container {
     padding-top: 75px;
     padding-bottom: 75px;
 }
 /*------------------------------ Home Page Content End ------------------------------*/
-
 /*------------------------------ Facilities Page Content Start ------------------------------*/
-
 .boxing-equipment-container {
     padding-top: 75px;
     padding-bottom: 75px;
 }
-
 .boxing-equipment {
     padding-top: 25px;
     padding-bottom: 25px;
     display: inline-block;
 }
-
 @media only screen and (max-width: 768px) {
     .boxing-equipment {
         text-align: center;
-    }
+   }
 }
-
 @media only screen and (max-width: 768px) {
     .boxing-equipment p {
-
         padding-top: 25px;
-    }
+   }
 }
-
-
 .image-credit cite {
     padding-left: 5px;
     font-size: 0.8rem;
 }
-
 @media only screen and (max-width: 768px) {
     .boxing-equipment-list, .boxing-ring-list, .fitness-list li {
         list-style: none;
         text-align: center;
-    }
+   }
 }
-
 .gloves-img {
-
     height: 60vh;
     max-width: 100%;
     background: url(../images/boxing_gloves.jpg);
@@ -317,7 +245,6 @@ body {
     justify-content: center;
     position: relative;
 }
-
 .ring-img {
     height: 60vh;
     max-width: 100%;
@@ -330,7 +257,6 @@ body {
     justify-content: center;
     position: relative;
 }
-
 .fitness-img {
     height: 60vh;
     max-width: 100%;
@@ -343,44 +269,33 @@ body {
     justify-content: center;
     position: relative;
 }
-
-
 @media only screen and (max-width: 768px) {
-    
-    .boxing-equipment-container .lead  {
+    .boxing-equipment-container .lead {
         font-size: .8rem;
-    }
+   }
 }
-
 @media only screen and (max-width: 768px) {
-    
-    .boxing-equipment-container ul  {
+    .boxing-equipment-container ul {
         font-size: .8rem;
-    }
+   }
 }
-
 @media screen and (min-width: 990px) {
     .quotation-box {
-    margin-left: 2rem;
-    position: relative;
-    }
+        margin-left: 2rem;
+        position: relative;
+   }
 }
-
 .quotation-box-body p {
     color: #fff;
     padding: 15px;
     font-size: 0.9rem;
     background-color:#1a1a1a;
 }
-
-
 /*------------------------------ Facilities Page Content End ------------------------------*/
-
 /*------------------------------ Contact Page Start ------------------------------*/
 .contact-hero {
     height: 100vh;
     max-width: 100%;
-
     background: url(../images/speed_ball.jpg);
     background-position: right;
     background-repeat: no-repeat;
@@ -390,46 +305,33 @@ body {
     justify-content: center;
     position: relative;
 }
-
 .contact-container .lead {
     text-align: center;
 }
-
 .contact-container {
     padding-top: 75px;
     padding-bottom: 75px;
 }
-
 .btn-success {
     background-color: dodgerblue;
-
 }
-
-
 .form-center {
     text-align: center;
     margin: 0 auto;
     padding-top: 30px;
 }
-
 /*------------------------------ Contact Page End ------------------------------*/
-
 /*------------------------------ Quote Start ------------------------------*/
-
 .quotes {
     position: relative;
     text-align: center;
 }
-
 .blockquote {
     padding-top: 20px;
     padding-bottom: 50px;
 }
-
 /*------------------------------ Quote End ------------------------------*/
-
 /*------------------------------ Footer Start ------------------------------*/
-
 footer {
     position: absolute;
     left: 0;
@@ -441,13 +343,11 @@ footer {
     padding-top: 40px;
     color: #ffffff;
 }
-
 .footer-content {
     display: inline-flex;
     flex-direction: column;
     text-align: center;
 }
-
 .socials {
     list-style: none;
     display: inline-flex;
@@ -455,90 +355,71 @@ footer {
     justify-content: center;
     margin: 1rem 0 3rem 0;
 }
-
 .socials li {
     margin: 0 10px;
 }
-
 .socials a {
     text-decoration: none;
     color: #ffffff;
-
 }
-
 .socials a i {
     font-size: 1.1rem;
     color: white;
 }
-
 .socials a:hover i {
     color: dodgerblue;
 }
-
 .footer-bottom {
     background: #000;
     width: 100vw;
     padding: 20px 0;
     text-align: center;
 }
-
-
 .nav-footer .nav-link {
     list-style: none;
     display: inline-flex;
     margin-bottom: 10px;
     color: #232323;
 }
-
 .nav-footer li {
     margin: 0 10px;
 }
-
 .nav-footer a {
     text-decoration: none;
     color: #ffffff;
     text-transform: uppercase;
-    
-
 }
-
 .nav-footer a:hover {
     color: dodgerblue;
 }
-
 @media only screen and (min-width: 768px) {
     .nav-footer a {
-    margin-bottom: 10px;
-    color: #ffffff;
-    font-weight: bold;
-    font-size: 1rem;
-    letter-spacing: .1rem;
-    text-transform: uppercase;
-    display: inline-flex;
-    }
+        margin-bottom: 10px;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 1rem;
+        letter-spacing: .1rem;
+        text-transform: uppercase;
+        display: inline-flex;
+   }
 }
-
 @media only screen and (max-width: 768px) {
     .nav-footer a {
-    margin-bottom: 10px;
-    color: #ffffff;
-    font-size: 1rem;
-    letter-spacing: .05rem;
-    text-transform: uppercase;
-    display: inline-flex;
-    font-weight: bold;
-    }
+        margin-bottom: 10px;
+        color: #ffffff;
+        font-size: 1rem;
+        letter-spacing: .05rem;
+        text-transform: uppercase;
+        display: inline-flex;
+        font-weight: bold;
+   }
 }
-
 .footer-bottom a {
     text-decoration: none;
     color: white;
 }
-
 .footer-bottom a:hover {
     text-decoration: none;
     color: dodgerblue;
 }
-
 /*------------------------------ Footer End ------------------------------*/
-
