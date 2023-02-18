@@ -95,6 +95,8 @@ I will be developing a 3 page website that offers a downloadable Gym schedule in
 
 Here is a link to the Wireframes I originally designed. The design has developed and changed since the Wireframes were created. I decided to change the tabs section at the bottom of the homepage to include a Google Map instead.
 
+As of February 18th 2023 - I decided to keep the google maps on my Homepage but I also added in a youtube video that does not play automatically.
+
 - [Homepage](https://imgbb.com/tX5C0t6)
 - [Facilities](https://imgbb.com/FVCMPG1)
 - [Gym Schedule](Add Live Link)
@@ -137,6 +139,8 @@ TBC
    - Used to create user story testing documentation.
  - [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
     - Used for testing changes throughout the project, finding bugs and testing responsiveness for different size devices.
+ - [Youtube](https://www.youtube.com)
+    - Used embed link for Video of Anthony Joshua's Gym in London.
 
 ## Testing
 
@@ -195,6 +199,8 @@ TBC
   - I referred to Stackoverflow to fix my hr dividers and help on responsiveness of images and text on the facilities page.
 - [Pexels](https://www.pexels.com/)
     - Images taken from Pexels stock image library.
+- [Youtube](https://www.youtube.com)
+    - Credit for Video of Anthony Joshua's Gym in London.
 
 ### Code
 
@@ -204,7 +210,8 @@ TBC
    - Opaque Overlay on the home page's hero image of website.
  - [OpacityCode](https://opacitycode.blogspot.com)
    - Used footer for the GymBox project.
- - 
+ - [Youtube](https://www.youtube.com)
+    - Used embed link for Video of Anthony Joshua's Gym in London.
 
 ### Content 
 
