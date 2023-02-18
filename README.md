@@ -309,7 +309,30 @@ I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my p
 
 ## Deployment
 
-TBC
+### How to deploy a GitHub Repository using GitHub Pages
+
+1. Go to your Repository section in GitHub and select the Repository you want to deploy.
+2. Click on the Settings link on the top horizontal Menu.
+3. Now on the settings page, find the Pages link, about half way down, on the menu on the left hand side.
+4. Under Branch, select the dropdown that says None, select Main, and then click save. 
+5. Wait for the page to refresh. Once the page has refreshed you can scroll back up and on the GitHub Pages Section you should see a message that says Your site is live at (Link to Live GitHub Pages Website) The live site does not usually publish straight away and sometimes takes a few minutes to become live.
+
+### How to Fork the GitHub Repository
+
+Forking a GitHub repository allows you to make a copy of the original repository that you can make changes to without affecting the original repository.
+
+1. Go to the GitHub repository you wish to make a Fork of.
+2. At the top of the page, opposite the repository name there is a button that says Fork.
+3. Now you have a copy of the repository in your GitHub account. You can find it in your repositories section.
+
+### How to make a Local Clone of  your GitHub Repository
+
+1. Go to the GitHub repository you wish to make a Local Clone of.
+2. Click on the Code button.
+3. Copy the link that is displaed on the drop-down.
+4. Open GitPod and choose the directory where you would like the cloned to be created
+5. Now go to the Terminal in GitPod and type in 'git clone'.
+6. Press Enter, and your cloned repository will be created.
 
 ## Credits
 
@@ -329,6 +352,7 @@ TBC
     - Credit for Video of Anthony Joshua's Gym in London.
 - [Color-Meanings](https://www.color-meanings.com/)
   - I used Color-Meanings to help me decide on the brand theme colors.
+- [Matt Rudge, Code Institute](https://codeinstitute.net/)
 
 ### Code
 
@@ -341,13 +365,6 @@ TBC
  - [Youtube](https://www.youtube.com)
     - Used embed link for Video of Anthony Joshua's Gym in London.
 
-### Content 
-
-TBC
-
-### Media
-
-TBC
 
 ## Thank You
 
