@@ -57,7 +57,7 @@ Developing User Stories allows me to gain a deeper understanding of design and f
 
 - As a busy professional: I want to be able to easily find the location, contact information, and be able to view the classes on the gym's website, so that I can plan my workout schedule in advance.
 
-- As an amateur boxer: I want to be able to find detailed information about the gym's trainers and their specialities, so that I can choose the best instructor for my skill level.
+- As an amateur boxer: I want to be able to find detailed information about the gym's equipment and classes so that I can create a training schedule for myself.
 
 - As a parent: I want to be able to view the class schedule to coordinate with my schedule and know when the classes are held.
 
