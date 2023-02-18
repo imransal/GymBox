@@ -257,6 +257,11 @@ In this section I will test the user stories from the User Experience Design sec
 
 * An amateur boxer can find information about the gym's equipment on the facilities page and can download a copy of the Gym Schedule by clicking on the Nav link.
 
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-1.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-2.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-3.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-4.jpg)
+
 3. **As a parent: I want to be able to view the class schedule to coordinate with my schedule and know when the classes are held.**
 
 * A parent can easily access the Gym Schedule by clicking on the link in the NavBar. This will open a new tab on their browser and the user can download a copy of the schedule in PDF format.
