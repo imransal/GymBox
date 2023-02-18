@@ -261,6 +261,7 @@ In this section I will test the user stories from the User Experience Design sec
 ![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-2.jpg)
 ![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-3.jpg)
 ![Gym Schedule Screenshot](docs/User%20Story%20Images/Facilities-4.jpg)
+![Gym Schedule Screenshot](docs/User%20Story%20Images/Gym-Schedule.jpg)
 
 3. **As a parent: I want to be able to view the class schedule to coordinate with my schedule and know when the classes are held.**
 
