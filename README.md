@@ -161,6 +161,12 @@ Here is a link to the Wireframes I originally designed. The design has developed
     - Used for testing changes throughout the project, finding bugs and testing responsiveness for different size devices.
  - [Youtube](https://www.youtube.com)
     - Used embed link for Video of Anthony Joshua's Gym in London.
+ - [Icons8](https://icons8.com/)
+    - Used to get Favicon for GymBox.
+ - [W3C Markup Validator](https://validator.w3.org/)
+    - Used to validate HTML code on all pages.
+ - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+    - Used to validate CSS code.
 
 ## Testing
 
