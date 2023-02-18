@@ -101,7 +101,7 @@ Here is a link to the Wireframes I originally designed. The design has developed
 
 - [Homepage](https://imgbb.com/tX5C0t6)
 - [Facilities](https://imgbb.com/FVCMPG1)
-- [Gym Schedule](Add Live Link)
+- [Gym Schedule](https://imransal.github.io/GymBox/assets/images/gymbox_timetable.pdf)
 - [Contact](https://imgbb.com/GpKdCBq)
 
 ### Homepage Differences 
