@@ -202,7 +202,7 @@ In this section I will test the user stories from the User Experience Design sec
 
 * There are well headed sections on the website letting users know what information there is and where it is.
 
-![Facilities Page Screenshot](../GymBox/docs/User%20Story%20Images/Facilities-Page-Section.jpg)
+![Facilities Page Screenshot](/docs/User%20Story%20Images/Facilities-Page-Section.jpg)
 
 * There is another navigation bar on the footer of the website in case the user wants to change page without having to access the NavBar again.
 
