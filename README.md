@@ -306,7 +306,7 @@ I used W3C Markup Validator & W3 CSS Validator to validate all the pages of my p
 
 - [W3C Markup Validator](https://validator.w3.org/)
 - [Home Page](./docs/W3C-Markup-Validator-Homepage.jpg)
-    - [Facilities Error](../GymBox/docs/W3C-Markup-Validator-Facilities-Page-Error.jpg)
+    - [Facilities Error](./docs/W3C-Markup-Validator-Facilities-Page-Error.jpg)
     - [Facilities](./docs/W3C-Markup-Validator-Facilities-Page.jpg)
     - [Contact Error](./docs/W3C-Markup-Validator-Contact-Page-Error.jpg)
     - [Contact](./docs/W3C-Markup-Validator-Contact-Page.jpg)
