@@ -193,7 +193,7 @@ In this section, I will test the user stories from the User Experience Design se
 
 ![GymBox Homepage Hero Screenshot](/docs/User%20Story%20Images/Home-Page-Hero.jpg)
 
-* As you scroll down you can easily see 3 subheadings with more information, headed "Boxing Equipment", "Boxing Classes", and "Safe & Secure". This lets site users know straight away Gymbox has boxing equipment, and boxing classes and is a safe & secure site for members to attend.
+* As you scroll down you can easily see 3 subheadings with more information, headed "Boxing Equipment", "Boxing Classes", and "Safe & Secure". This lets site users know straight away Gymbox has boxing equipment, and boxing classes and is a safe & secure site for members to attend. The priority of information has been thought about, giving the name of the Gym in the hero and then the Gym features right underneath.
 
 ![Membership Benefits and About Gymbox Screenshot](/docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
 
