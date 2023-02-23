@@ -223,7 +223,7 @@ In this section, I will test the user stories from the User Experience Design se
 
 4. **As a first-time visitor, I want to have a positive visual experience, with a clean and organized layout and attractive design.**
 
-* There is a consistent style throughout all the pages of the website. Sections are clearly separated and display well on smaller devices.
+* There is a consistent style throughout all the pages of the website. Sections are separated and information is presented in the order of priority, and displays well on smaller devices.
 
 ![Members and Benefits Screenshot](docs/User%20Story%20Images/Membership-Benefits-About-Gymbox.jpg)
 ![Facilities Page Screenshot](docs/User%20Story%20Images/Facilities-Page.jpg)
